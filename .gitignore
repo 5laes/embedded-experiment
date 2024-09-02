@@ -1,0 +1,9 @@
+/.generated_files*
+/build*
+/debug*
+/dist*
+/nbproject*
+Makefile
+mcc-manifest-autosave.yml
+mcc-manifest-generated-success.yml
+only_usb.mc3
